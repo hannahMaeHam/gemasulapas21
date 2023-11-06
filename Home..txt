@@ -1,0 +1,137 @@
+<html>
+<head>
+      <title> Home </title>
+   
+</head>
+
+<body background="siargao1.jpg">
+   <font color= black size=5 face="Hobo">
+
+<div class="header-inner section-inner">
+<img src="logo1.jfif" width="300px lenght="300px alt="descriptive">
+
+<hr>
+
+<center>
+ <table border=5 bgcolor=lightgray width=30%
+
+   <th>GENERAL LUNA - HOME TOWN TRAVEL!</th>
+   <th><a href="Home.html">Home</a></th>
+   <th><a href="About us.html">About Us</a></th>
+   <th><a href="Blog.html"> Blog</a></th>
+   <th><a href="Destination.html">Destination</a></th>
+   <th><a href="Traveltips.html">Travel Tips</a></th>
+
+
+</table>
+</center>
+<hr>
+
+
+
+<font color=white size:4 face="Bell MT"> 
+<h1> General Luna Siargao Island offers a delightful blend of adventure, relaxation, and natural beauty. It's a place where you can create unforgettable memories, whether you're an adrenaline-seeking surfer, a nature lover, or someone looking for a tranquil getaway in a tropical paradise!</h1>
+</font>
+
+
+
+
+
+<table border="1"  cellpadding="5" center>
+
+<tr>
+
+    <td> <img src="siargao3.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:600; height:600"></td>
+    <td> <img src="siargao4.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:600; height:600"></td>
+    <td> <img src="siargao5.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:600; height:600"></td>
+
+<font color=white size:6 face="Bell MT"> 
+<h2> Siargao Island is a haven for those who seek to intertwine their spirit with the elements, to write their story in the sands of its beaches, in the melodies of its waves, and in the heart of its lush landscapes.</h2>
+</font>
+
+
+ <table border="1" cellpadding="5" center>
+
+ <tr>
+
+    <td> <img src="siargao6.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:500; hieght:500"></td>
+    <td> <img src="siargao8.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:700; hieght:700"></td>
+    <td> <img src="siargao7.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:700; hieght:700"></td>
+
+
+<table border="1" cellpadding="5">
+
+ <tr>
+
+    <td><img src="siargao10.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:600; hieght:600"></td>
+    <td><img src="siargao11.jpg" alt="Description" style="padding-bottom:5px; display: block; border: none; width:700; hieght:700"></td>
+    <td><img src="siargao13.jfif" alt="Description" style="padding-bottom:5px; display: block; border: none; width:500; hieght:500"></td>
+
+
+
+</center>
+</tr>
+</table>
+
+
+
+
+
+
+<center> 
+<font color=white size:10 face="Bell MT"> 
+<h3>"Discover the Adventure: Siargao Island, Where Every Wave Leads to a New Thrill!"</h3>
+
+</center>
+</font>
+
+  <style>
+    .search-container {
+      display: flex;
+      justify-content: flex-end; /* Align items to the right side */
+      width: 100%; /* Full width container */
+    }
+
+    .search-input {
+      width: 300px; /* Adjust the width as needed */
+      padding: 10px;
+    }
+
+    .search-button {
+      margin-left: 10px; /* Add some space between the input and the button */
+      padding: 5px 10px;
+      background-color: #007bff; /* Example background color */
+      color: #fff; /* Example text color */
+      border: none;
+      cursor: pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="search-container">
+    <input type="search" id="site-search" name="q" class="search-input" placeholder="Search the site">
+    <button class="search-button">Search</button>
+  </div>
+
+
+
+
+
+<style>
+
+	body {
+	  
+	  
+	background-image: url('siargao1.jpg');
+	backgound-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+        background-opacity: 0.5;
+	
+
+}
+
+</style>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<html>
+<head>
+      <title> Travel Tips</title>
+   
+</head>
+
+<body background="siargao5.jpg">
+   <font color= black size=5 face="Hobo">
+
+    <i><h1 align= left> <font color= black size=6 face="blacklight"> Travel Tips</i> </h1>
+	</font>
+<hr>
+
+<center>
+ <table border=5 bgcolor=lightgray width=30%
+
+   <th>GENERAL LUNA - HOME TOWN TRAVEL!</th>
+   <th><a href="Home.html">Home</a></th>
+   <th><a href="About Us.html">About Us</a></th>
+   <th><a href="Blog.html">Blog</a></th>
+   <th><a href="Destination.html">Destination</a></th>
+   <th><a href="Traveltips.html">Travel Tips</a></th>
+
+</table>
+</center>
+<hr>
+
+
+<p><font color= white size: 5 >Welcome to our "Travel Tips" page, your one-stop resource for making the most of your visit to General Luna, the vibrant heart of Siargao Island. Whether you're a first-time traveler to this tropical paradise or a returning explorer, our carefully curated travel tips are designed to enhance your experience and ensure your journey is filled with unforgettable moments.</font></p>
+
+
+<u><i><h2 align= left> <font color= white size=5 face="blacklight">Why Our Travel Tips Matter?</u></i> </h2>
+	</font>
+
+
+<center><img src="siargao42.jpg" style="float:left" width="600" height="500"/></center>
+ <center><img src="siargao39.jfif" style="float:left" width="500" height="300"/></center>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<ol>
+<dd><li><b>Effortless Preparation:</b> Planning a trip can be overwhelming, especially when you're headed to a destination as rich and diverse as General Luna. Our travel tips provide you with a handy checklist to ensure you pack the right essentials, understand the local culture, and know what to expect in terms of weather and seasonal events. </li><br>
+<dd><li><b>Safety and Well-being: </b>Traveling safely and responsibly is paramount. We share insights on staying safe while you explore the area, ensuring you have the knowledge to navigate any potential challenges. Your well-being is our top priority, and our tips include health recommendations and safety precautions to help you make the most of your adventure.</li><br>
+
+
+
+<li><b>Cultural Appreciation:</b> General Luna boasts a unique and vibrant culture that's worth exploring and respecting. Our travel tips help you understand local customs, traditions, and even suggest ways to participate in cultural events and ceremonies, fostering a deeper connection with the community.</li><br>
+<li><b>Budgeting and Cost-Effective Travel:</b> We know that budgeting is an essential part of trip planning. With our tips on budgeting and money matters, you'll be able to make the most of your funds, getting the best value for your money during your stay in General Luna.</li><br>
+<li><b>Sustainable and Responsible Tourism:</b> Responsible travel is more important than ever. By following our sustainable travel tips, you can contribute to the preservation of the area's natural beauty and support local businesses in a responsible and ethical way.</li><br>
+
+
+<center><img src="siargao43.jpg" style="float:center" width="800" height="500"/></center>
+
+
+<p>Our "Travel Tips" are more than just suggestions; they're a roadmap to crafting a memorable and enjoyable adventure in General Luna. We aim to empower you with the knowledge and insight you need to create lasting memories, connect with the local culture, and make the most of your time in this extraordinary destination.</p>
+
+<p>So, whether you're seeking the best local dishes to savor, advice on staying safe and healthy, or insights into Siargao's rich culture, our "Travel Tips" are here to guide you on a journey that goes beyond exploration. We invite you to embark on this adventure with confidence, respect, and a sense of wonder, and we're here to assist you every step of the way.</p>  
+
+<br>
+<br>
+
+<b><center><i><p> <font size: 8 face: "Bell MT">Let's explore General Luna together and make your travel dreams a reality!</b> </center></i> </p>
+
+<br>
+<br>
+<br>
+<br>
+
+ 
+
+ <style>
+    .search-container {
+      display: flex;
+      justify-content: flex-end; /* Align items to the right side */
+      width: 100%; /* Full width container */
+    }
+
+    .search-input {
+      width: 300px; /* Adjust the width as needed */
+      padding: 10px;
+
+    }
+
+    .search-button {
+      margin-left: 10px; /* Add some space between the input and the button */
+      padding: 5px 10px;
+      background-color: #007bff; /* Example background color */
+      color: #fff; /* Example text color */
+      border: none;
+      cursor: pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="search-container">
+    <input type="search" id="site-search" name="q" class="search-input" placeholder="Search the site">
+    <button class="search-button">Search</button>
+  </div>
+
+
+
+
+
+
+
+
+
+<style>
+
+	body {
+	  
+	  
+	background-image: url('siargao5.jpg');
+	backgound-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+        background-opacity: 0.5;
+	
+
+}
+
+</style>
+</body>
+</html>

@@ -1,0 +1,124 @@
+<html>
+<head>
+      <title> About Us</title>
+   
+</head>
+
+<body background="siargao33.jpg">
+   <font color= white size=5 face="Hobo">
+
+    <h1 align= left> <font color= white size=6 face="blacklight"><i> About Us </i></h1>
+	</font>
+<hr>
+
+<center>
+ <table border=5 bgcolor=lightgray width=30%
+
+   <th>GENERAL LUNA - HOME TOWN TRAVEL!</th>
+   <th><a href="Home.html"> Home </a></th>
+   <th><a href="About Us.html"> About Us</a></th>
+   <th><a href="Blog.html">Blog</a></th>
+   <th><a href="Destination.html">Destination</a></th>
+   <th><a href="Traveltips.html">Travel Tips</a></th>
+
+</table>
+</center>
+<hr>
+
+
+
+<p>
+<dd> <marquee> <u><font color=white size:5 face="Bell MT"> Discover General Luna with Us!</u></marquee>
+
+</p>
+ 
+    <p> 
+<dd> <font color=white> Welcome to General Luna - Home Town Travel, your gateway to the enchanting beauty of General Luna and its surrounding areas. Our journey began with a profound love for this stunning region, and it's our pleasure to share it with you.</p></font>
+
+<p>
+  <b><font color= black size:6> Our Story </b></font>
+ <dd><font color=white> Our story is one of passion, exploration, and a deep connection to this paradise. General Luna is more than just a destination; it's our home, and we want to show you its hidden treasures. Our journey started with a small group of travel enthusiasts who turned their love for General Luna into a mission.We're here to help you experience the best this town has to offer.</p></font>
+
+<p>
+ <b><font color= black size:6> Meet the Team</b></font>
+ <dd><font color=white> Our dedicated team is made up of locals who have spent their lives in General Luna and travelers who fell in love with this place just like you. We're a diverse group of individuals with a shared passion for travel and a commitment to providing you with the most authentic and unforgettable experiences.</p></font>
+
+<p>
+ <b><font color= black size:6>Our Mission</b></font>
+ <dd><font color=white> Our mission is simple: to provide you with an insider's perspective of General Luna. We want you to feel like a part of our community, to see the town through the eyes of its residents, and to create lasting memories that go beyond the typical tourist experience. We're committed to responsible and sustainable travel, ensuring that General Luna remains a treasure for generations to come.</p></font>
+
+<p>
+ <b><font color= black size:6>Why Choose Us?</b></font>
+
+ <dd><font color=white>
+      <li> Local Expertise: We know the best spots, the hidden gems, and the local culture like the back of our hand.</li>
+      <li>Personalized Experiences: We tailor your trips to your preferences, ensuring every visit is unique.</li>
+      <li>Sustainable Travel: We care deeply about preserving the natural beauty of General Luna and support responsible tourism.</li>
+      
+
+
+
+<h2><font color= white size:3 face="Times New Roman"> Thank you for considering General Luna - Home Town Travel for your adventure. We can't wait to help you explore the wonders of our hometown.</h2></font>
+
+<br>
+<br>
+<br>
+<br>
+
+ <style>
+    .search-container {
+      display: flex;
+      justify-content: flex-end; /* Align items to the right side */
+      width: 100%; /* Full width container */
+    }
+
+    .search-input {
+      width: 300px; /* Adjust the width as needed */
+      padding: 10px;
+    }
+
+    .search-button {
+      margin-left: 10px; /* Add some space between the input and the button */
+      padding: 5px 10px;
+      background-color: #007bff; /* Example background color */
+      color: #fff; /* Example text color */
+      border: none;
+      cursor: pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="search-container">
+    <input type="search" id="site-search" name="q" class="search-input" placeholder="Search the site">
+    <button class="search-button">Search</button>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+
+	body {
+	  
+	  
+	background-image: url('siargao33.jpg');
+	backgound-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+        background-opacity: 0.5;
+	
+
+}
+
+</style>
+</body>
+</html>
